@@ -1,0 +1,17 @@
+[
+    {
+        "college/university": "Union College",
+        "school name": "Union Dutchmen",
+        "website": "unionathletics.com",
+        "urls": [
+            {
+                "url": "https://unionathletics.com/sports/mens-ice-hockey/coaches/",
+                "category": "Men's College Hockey DI Coaches",
+                "location": "New York",
+                "conference": "ECAC"
+            }
+        ],
+        "module": "parser.unionathletics",
+        "class": "Parser"
+    }
+]
